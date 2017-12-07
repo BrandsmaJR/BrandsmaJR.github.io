@@ -1,0 +1,133 @@
+
+nav ul a,
+nav .brand-logo {
+  color: #444;
+}
+
+p {
+  line-height: 2rem;
+}
+
+.button-collapse {
+  color: #26a69a;
+}
+
+.parallax-container {
+  min-height: 300px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+  width: 100%;
+}
+
+.section {
+    width: 100%;
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  margin: 0;
+}
+
+h5  {
+  font-size: 32px;
+}
+
+h6 {
+  font-size: 12px;
+  color: #26a69a;
+}
+
+h4{
+  font-size: 32px;
+}
+
+html  {
+  background-color: #000000;
+}
+
+nav {
+  background-color: #26a69a;
+}
+
+p {
+  color: #26a69a;
+}
+
+#names  {
+  color: #26a69a;
+  padding-top: 5%;
+}
+
+#Email  {
+  color: #26a69a;
+  padding-top: 2%;
+}
+
+#Reason {
+  color: #26a69a;
+  padding-top: 2%;
+}
+
+#Message {
+  color: #26a69a;
+  padding-top: 2%;
+}
+
+#Phone {
+  color: #26a69a;
+  padding-top: 2%;
+}
+
+#Date {
+  color: #26a69a;
+  padding-top: 2%;
+}
+
+#Date {
+  color: #26a69a;
+  padding-top: 2%;
+}
+
+#Start  {
+  color: #26a69a;
+  padding-top: 2%;
+}
+
+#End {
+  color: #26a69a;
+  padding-top: 2%;
+}
+
+#IMG1 {
+  position: relative;
+  padding: 2%;
+}
+
+#submit {
+}
+
+.nav-wrapper {
+padding-right: 20%;
+}
+
+h7 {
+  font-size: 20px;
+  padding-left: 5%;
+  padding-top: 5%;
+  color: #ffffff;
+}
+
+.page-footer {
+  background-color: #26a69a;
+}
+
+p1 {
+  color: #ffffff;
+}
